@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"city": "London",
+		"country": "United Kingdom",
+		"imgUrl": "https://cf.bstatic.com/xdata/images/city/600x600/977262.jpg?k=2b852648c76ccaff8be05333057712eda873343dfaa79cd23e55534a1a55aecc&o="
+	},
+	{
+		"id": 2,
+		"city": "Paris",
+		"country": "France",
+		"imgUrl": "https://cf.bstatic.com/xdata/images/city/600x600/977242.jpg?k=72bfe23a6d7a496e0305b94bbb28ce197f3df2d6dd28986c3760a5f1c931664c&o="
+	},
+	{
+		"id": 3,
+		"city": "Tokyo",
+		"country": "Japan",
+		"imgUrl": "https://cf.bstatic.com/xdata/images/city/600x600/619763.jpg?k=3bfc62a779df5b92694287e9fc0b82d795f93700ddf8887d66f3191ee745dcc5&o="
+	},
+	{
+		"id": 4,
+		"city": "New York",
+		"country": "United States",
+		"imgUrl": "https://cf.bstatic.com/xdata/images/city/600x600/977437.jpg?k=0e8e510a113c319717b54edcbd3df2b5e2cf190e403973548745a10a2c19e660&o="
+	}
+]
