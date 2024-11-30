@@ -19,17 +19,12 @@ const navbarItems = [
 		icon: <MdHomeFilled />,
 	},
 	{
-		label: "Search",
+		label: "Hotels",
 		link: "/search",
 		icon: <MdSearch />,
 	},
 	{
-		label: "Notifications",
-		link: "/notifications",
-		icon: <MdNotifications />,
-	},
-	{
-		label: "Profile",
+		label: "Login",
 		link: "/profile",
 		icon: <MdPerson />,
 	},

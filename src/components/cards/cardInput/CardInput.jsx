@@ -14,19 +14,31 @@ import {
 } from "antd";
 import { MdOutlineSearch, MdOutlinePeopleAlt } from "react-icons/md";
 
+import { reservationStore } from "@/store/store";
 import destinations from "@/data/destination.json";
 
 const { Text } = Typography;
 const { RangePicker } = DatePicker;
 
 export default function CardInput() {
-	const [guest, setGuest] = useState({
-		adult: 2,
-		child: 0,
-	});
-	const [room, setRoom] = useState(1);
+	const guest = reservationStore((state) => state.guest);
+	const setGuest = reservationStore((state) => state.setGuest);
+
+	const room = reservationStore((state) => state.room);
+	const setRoom = reservationStore((state) => state.setRoom);
+
+	const destination = reservationStore((state) => state.destination);
+	const setDestination = reservationStore((state) => state.setDestination);
+
+	const date = reservationStore((state) => state.date);
+	const setDate = reservationStore((state) => state.setDate);
 
 	const [form] = Form.useForm();
+
+	const getFieldsValue = () => form.getFieldsValue();
+	const handleSearch = () => {
+		console.log(getFieldsValue());
+	};
 
 	const [open, setOpen] = useState(false);
 
@@ -39,7 +51,7 @@ export default function CardInput() {
 	};
 
 	return (
-		<Card className="w-full shadow-md">
+		<Card className="w-full shadow-md" styles={{ body: { padding: 16 } }}>
 			<Form form={form}>
 				<Row gutter={[16, 16]}>
 					<Col span={24} md={7} xl={8}>
@@ -50,6 +62,8 @@ export default function CardInput() {
 								placeholder="Destination"
 								prefix={<MdOutlineSearch size={24} />}
 								allowClear={true}
+								value={destination}
+								onChange={(value) => setDestination(value)}
 							/>
 						</Form.Item>
 					</Col>
@@ -59,6 +73,8 @@ export default function CardInput() {
 							<RangePicker
 								placeholder={["Check In", "Check Out"]}
 								className="w-full"
+								value={date}
+								onChange={(value) => setDate(value)}
 							/>
 						</Form.Item>
 					</Col>
@@ -73,7 +89,7 @@ export default function CardInput() {
 							arrow={false}
 							trigger="click"
 							content={
-								<Row className="w-96 p-4" gutter={[8, 16]}>
+								<Row className="w-80 p-4" gutter={[8, 16]}>
 									<Col span={24} className="flex items-center justify-between">
 										<Text className="font-bold">Adult</Text>
 										<InputNumber
@@ -130,6 +146,7 @@ export default function CardInput() {
 							className="w-min xl:w-full"
 							type="primary"
 							icon={<MdOutlineSearch />}
+							onClick={handleSearch}
 						>
 							Search
 						</Button>

@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"destinationId": 1,
+		"name": "Park Plaza Westminster Bridge London",
+		"stars": 4,
+		"rating": 8.9,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/square600/329065860.webp?k=e18bb33d0a9e02394ebbe55f6b837341afe1c70346f6798d72d63538f29ed761&o=",
+		"price": 110,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 2,
+		"destinationId": 1,
+		"name": "European Hotel London",
+		"stars": 3,
+		"rating": 9.3,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/34712403.jpg?k=4f9bf10f82519b8c7dc9e40c6e8fe8687789b23f8630747dc96cc6a07842734d&o=&hp=1",
+		"price": 220,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 3,
+		"destinationId": 1,
+		"name": "The Wembley Park Hotel",
+		"stars": 5,
+		"rating": 8.3,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226142020.jpg?k=300fbe5d07498097b72fdcf1261ae577354ac69b1ab682efe1af85136cafdd1a&o=&hp=1",
+		"price": 150,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 4,
+		"destinationId": 1,
+		"name": "Britannia International Hotel",
+		"stars": 5,
+		"rating": 9.9,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218027775.jpg?k=8425b9dcee071f23e4ec80d81318989c44687962936de8fb0c7bba529e0db105&o=&hp=1",
+		"price": 190,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	}
+]
