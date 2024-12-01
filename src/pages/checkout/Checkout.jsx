@@ -148,6 +148,7 @@ export default function Checkout() {
 					onCancel={handleCancel}
 					onOk={handleSuccess}
 					okText="Go Home"
+					cancelText="Close"
 				>
 					<Result
 						status="success"

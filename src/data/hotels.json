@@ -38,5 +38,65 @@
 		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218027775.jpg?k=8425b9dcee071f23e4ec80d81318989c44687962936de8fb0c7bba529e0db105&o=&hp=1",
 		"price": 190,
 		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 5,
+		"destinationId": 2,
+		"name": "The Park Hotel",
+		"stars": 4,
+		"rating": 8.9,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226142020.jpg?k=300fbe5d07498097b72fdcf1261ae577354ac69b1ab682efe1af85136cafdd1a&o=&hp=1",
+		"price": 110,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 6,
+		"destinationId": 2,
+		"name": "The Paris Hotel",
+		"stars": 5,
+		"rating": 9.4,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218027775.jpg?k=8425b9dcee071f23e4ec80d81318989c44687962936de8fb0c7bba529e0db105&o=&hp=1",
+		"price": 190,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 7,
+		"destinationId": 3,
+		"name": "The Tokyo Hotel",
+		"stars": 4,
+		"rating": 8.9,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226142020.jpg?k=300fbe5d07498097b72fdcf1261ae577354ac69b1ab682efe1af85136cafdd1a&o=&hp=1",
+		"price": 150,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 8,
+		"destinationId": 3,
+		"name": "The Tokyo Park Hotel",
+		"stars": 5,
+		"rating": 9.4,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218027775.jpg?k=8425b9dcee071f23e4ec80d81318989c44687962936de8fb0c7bba529e0db105&o=&hp=1",
+		"price": 190,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 9,
+		"destinationId": 4,
+		"name": "The New York Hotel",
+		"stars": 4,
+		"rating": 8.9,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226142020.jpg?k=300fbe5d07498097b72fdcf1261ae577354ac69b1ab682efe1af85136cafdd1a&o=&hp=1",
+		"price": 150,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
+	},
+	{
+		"id": 10,
+		"destinationId": 4,
+		"name": "The New York Park Hotel",
+		"stars": 5,
+		"rating": 9.4,
+		"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218027775.jpg?k=8425b9dcee071f23e4ec80d81318989c44687962936de8fb0c7bba529e0db105&o=&hp=1",
+		"price": 190,
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, natus."
 	}
 ]
